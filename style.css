@@ -1,0 +1,94 @@
+.one{
+    background-color:#ebebeb;
+    color:#777;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+.two{
+  background-color: #ebebeb;
+  color:#777;
+  text-align: center;
+  font-family: 'Arial', 'Helvetica Neue';
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 15px;
+}
+.rightside{
+  background-color: #ebebeb;
+  color: #777;
+  text-align: center;
+  font-family: 'Arial', 'Helvetica Neue';
+  float: right;
+  padding-right:170px;
+  padding-left:170px;
+  padding-bottom:250px
+}
+.leftside{
+    background-color: #ebebeb;
+    color: #777;
+    text-align:center;
+    font-family: 'Arial', 'Helvetica Neue';
+    height:239px;
+    width:550px;
+    position: relative;
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
+.insection{
+    background-color: #777;
+    color: #ebebeb;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue';
+    position: absolute;
+    bottom: 130px;
+    left:15px;
+    width: 535px;
+    height: 190px;
+
+
+}
+.insidearticle{
+    background-color: #ebebeb;
+    color: #777;
+    text-align:center;
+    font-family: 'Arial', 'Helvetica Neue';
+    position: absolute;
+    width:525px;
+    height:60px;
+    bottom:185px;
+    left:20px;
+
+}
+.insidearticle2{
+    background-color: #ebebeb;
+    color: #777;
+    text-align:center;
+    font-family: 'Arial', 'Helvetica Neue';
+    position: absolute;
+    width:525px;
+    height:60px;
+    bottom:125px;
+    left:20px;
+
+}
+body{
+    width: 960px
+}
+section{
+    widows: 495px;
+}
+html{
+    background-color: #777;
+    content: #ebebeb;
+}
+.three{
+    background-color: #ebebeb;
+    color:#777;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue';
+    height:90px;
+    width:960px;
+    
+}
